@@ -8,6 +8,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 /* setting the attributes for the header */
 header {
     padding: 20px;
@@ -25,6 +34,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,15 +50,6 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Hero Style Start */
