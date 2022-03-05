@@ -19,7 +19,11 @@
 *WHEN I view the title element  
 *THEN I find a concise, descriptive title  
 
-![alt tag](./assets/images/Screenshot%202022-03-05%20171836.png)Screenshot of Landing Page
+Screenshot of Landing Page  
+![alt tag](./assets/images/Screenshot%202022-03-05%20171836.png)
+
+Link to site  
+[Link](https://bethanyjean.github.io/urban-octo-telegram/)
 
 
 
